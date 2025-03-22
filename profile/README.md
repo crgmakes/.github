@@ -1,12 +1,14 @@
 ## Welcome to CRG Makes 👋
 
-We specialize in custom products for our amazing clients.
+We specialize in open source products involving integrated software and hardware that provides the highest quality user experience. Check out our <a href="https://crgmakes.com">website</a> and our YouTube channel.
 
 ## What Makes Us Different?
 
 We are real people making real products, focused on customer satisfaction and happiness. No robots here or faceless corporations focused on a profits over products.
 
+## What Next?
 
+We are currently developing Aquarius, an open source platform targeting hobbyist woodworks, aimed at automating the workshop to make it a safer place to work. 
 
 <!--
 
