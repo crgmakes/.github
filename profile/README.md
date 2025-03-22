@@ -1,7 +1,4 @@
-<!--
-[gh-banner]()
--->
-
+![gh-banner](https://repository-images.githubusercontent.com/953102456/cffd485b-d32c-4ed5-9e41-784aa96d8cd1)
 
 ## Welcome to CRG Makes
 
