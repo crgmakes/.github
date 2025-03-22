@@ -1,6 +1,11 @@
-## Welcome to CRG Makes 👋
+<!--
+[gh-banner]()
+-->
 
-We specialize in open source products involving integrated software and hardware that provides the highest quality user experience. Check out our <a href="https://crgmakes.com">website</a> and our YouTube channel.
+
+## Welcome to CRG Makes
+
+We specialize in open source products involving integrated software and hardware that provides the highest quality user experience. Check out our [website](https://crgmakes.com) and our YouTube channel.
 
 ## What Makes Us Different?
 
